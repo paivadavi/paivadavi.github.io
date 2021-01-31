@@ -1,6 +1,7 @@
-body{
-    background-color: aquamarine;
+body {
+  background-color: aquamarine;
 }
-.text{
-    background-color: red;
+.text {
+  color: aliceblue;
+  font-family: "Lucida Sans";
 }
